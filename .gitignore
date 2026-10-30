@@ -1,0 +1,9 @@
+# Datos, fotos externas y resultados generados por el notebook
+data/
+externas/
+externas.zip
+figuras/
+resultados.zip
+*.pth
+.ipynb_checkpoints/
+__pycache__/
